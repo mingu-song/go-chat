@@ -1,0 +1,23 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+# github.com/googollee/go-engine.io v1.0.1
+github.com/googollee/go-engine.io
+github.com/googollee/go-engine.io/message
+github.com/googollee/go-engine.io/parser
+github.com/googollee/go-engine.io/polling
+github.com/googollee/go-engine.io/transport
+github.com/googollee/go-engine.io/websocket
+# github.com/googollee/go-socket.io v1.0.1
+## explicit
+github.com/googollee/go-socket.io
+# github.com/gorilla/websocket v1.4.1
+## explicit
+github.com/gorilla/websocket
+# github.com/labstack/echo v3.3.10+incompatible
+## explicit
+# github.com/labstack/gommon v0.3.0
+## explicit
+# golang.org/x/crypto v0.0.0-20201012173705-84dcc777aaee
+## explicit
+# gopkg.in/yaml.v2 v2.2.4
+## explicit
